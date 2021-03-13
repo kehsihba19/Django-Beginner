@@ -10,7 +10,7 @@ Clone of search engines available on internet built using Django Framework
 - `The basic UI of Google is used`
 
 
-<div align="center"><img src="search_engine/Image.gif"></div>
+<div align="center"><img src="Image.gif"></div>
 
 
 ## Installation
