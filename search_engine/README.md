@@ -2,7 +2,7 @@
 
 Clone of search engines available on internet built using Django Framework
 
-[![Heroku](http://heroku-badge.herokuapp.com/?app=search-clone)](https://search-clone.herokuapp.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-Hosted-green)](https://search-clone.herokuapp.com/)
 
 ## Key Features
 - `The queries are dynamically fetched`
