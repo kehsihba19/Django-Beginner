@@ -2,7 +2,7 @@
 
 Weather application built using Django Framework and OWM api
 
-[![Heroku](http://heroku-badge.herokuapp.com/?app=search-clone)](https://weather-clone.herokuapp.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-Hosted-green)](https://weather-clone.herokuapp.com/)
 
 ## Key Features
 - `OWM API is used to fetch weather details`
